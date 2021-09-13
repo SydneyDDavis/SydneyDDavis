@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SydneyDDavis
-- 👀 I’m interested in finding valuable insides and nuggets of sociological trends in large behavioral datasets
+- 👀 I’m interested in finding valuable insights and nuggets of sociological trends in large behavioral datasets
 - 🌱 I’m currently learning about neural networks, especially their function within solving social issues
 - 📫 How to reach me... email: dehartdaviss@gmail.com 
 
